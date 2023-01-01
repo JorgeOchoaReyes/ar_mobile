@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5681123188709160775
+  m_GuidHigh: 12327153685992996797
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4707787456655838309
+      m_GuidHigh: 781185682844292501
+    m_SerializedTextureGuid:
+      m_GuidLow: 1203850510845101258
+      m_GuidHigh: 9387683873319289369
+    m_Size: {x: 0.062, y: 0.062}
+    m_SpecifySize: 1
+    m_Name: artest
+    m_Texture: {fileID: 0}
